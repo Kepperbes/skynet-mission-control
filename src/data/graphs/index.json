@@ -1,0 +1,222 @@
+[
+  {
+    "id": "power-design",
+    "name": "power-design",
+    "description": "Example project — a public repo graphed with graphify",
+    "path": "git:power-design",
+    "lang": "Code",
+    "color": "#7be0c8",
+    "nodeCount": 2935,
+    "edgeCount": 2858,
+    "communities": 88,
+    "extractedPct": 100,
+    "godNodes": [
+      {
+        "name": "Design Principles for Codified Slide Generation",
+        "degree": 17
+      },
+      {
+        "name": "Components",
+        "degree": 15
+      },
+      {
+        "name": "brand-style.md",
+        "degree": 12
+      }
+    ]
+  },
+  {
+    "id": "reisift-crm",
+    "name": "REISift CRM Knowledge Graph",
+    "description": "Official DataSift/REISift API docs, operations, and CRM implementation playbooks",
+    "path": "git:reisift-official-docs",
+    "lang": "Documentation",
+    "color": "#60a5fa",
+    "nodeCount": 150,
+    "edgeCount": 256,
+    "communities": 17,
+    "extractedPct": 100,
+    "godNodes": [
+      {
+        "name": "DataSift Developer Documentation (Extended)",
+        "degree": 21
+      },
+      {
+        "name": "Use-Case Playbooks",
+        "degree": 18
+      },
+      {
+        "name": "Properties",
+        "degree": 13
+      },
+      {
+        "name": "Owners, Phones, and Communication",
+        "degree": 13
+      },
+      {
+        "name": "Tasks, Task Presets, and SiftLine",
+        "degree": 13
+      },
+      {
+        "name": "Endpoint Index - DataSift API Core",
+        "degree": 13
+      }
+    ]
+  },
+  {
+    "id": "watermarks-remover",
+    "name": "watermarks-remover",
+    "description": "Cloned & graphed from a Git URL",
+    "path": "git:watermarks-remover",
+    "graphPath": "C:\\Users\\Linda\\Downloads\\Skynet Mission Control\\src\\data\\graphs\\watermarks-remover.json",
+    "lang": "Python",
+    "color": "#a78bfa",
+    "nodeCount": 476,
+    "edgeCount": 928,
+    "communities": 20,
+    "extractedPct": 90,
+    "godNodes": [
+      {
+        "name": "container_meta.py",
+        "degree": 40
+      },
+      {
+        "name": "common.py",
+        "degree": 32
+      },
+      {
+        "name": "image_meta.py",
+        "degree": 31
+      },
+      {
+        "name": "clean_text()",
+        "degree": 24
+      },
+      {
+        "name": "rewrite_text.py",
+        "degree": 23
+      },
+      {
+        "name": "text_unicode.py",
+        "degree": 21
+      }
+    ]
+  },
+  {
+    "id": "book-to-skill",
+    "name": "book-to-skill",
+    "description": "Cloned & graphed from a Git URL",
+    "path": "git:book-to-skill",
+    "graphPath": "C:\\Users\\Linda\\Downloads\\Skynet Mission Control\\src\\data\\graphs\\book-to-skill.json",
+    "lang": "Python",
+    "color": "#f5b14c",
+    "nodeCount": 921,
+    "edgeCount": 1579,
+    "communities": 55,
+    "extractedPct": 98,
+    "godNodes": [
+      {
+        "name": "detect_structure()",
+        "degree": 87
+      },
+      {
+        "name": "TestDetectStructure",
+        "degree": 76
+      },
+      {
+        "name": "test_book_to_skill.py",
+        "degree": 66
+      },
+      {
+        "name": "utils.py",
+        "degree": 61
+      },
+      {
+        "name": "ExtractionError",
+        "degree": 45
+      },
+      {
+        "name": "extract_single_file()",
+        "degree": 44
+      }
+    ]
+  },
+  {
+    "id": "humanizer",
+    "name": "humanizer",
+    "description": "Cloned & graphed from a Git URL",
+    "path": "git:humanizer",
+    "graphPath": "C:\\Users\\Linda\\Downloads\\Skynet Mission Control\\src\\data\\graphs\\humanizer.json",
+    "lang": "Code",
+    "color": "#f472b6",
+    "nodeCount": 104,
+    "edgeCount": 98,
+    "communities": 12,
+    "extractedPct": 100,
+    "godNodes": [
+      {
+        "name": "Humanizer: Remove AI Writing Patterns",
+        "degree": 13
+      },
+      {
+        "name": "FILLER AND HEDGING",
+        "degree": 12
+      },
+      {
+        "name": "plugin.json",
+        "degree": 9
+      },
+      {
+        "name": "Humanizer",
+        "degree": 9
+      },
+      {
+        "name": "LANGUAGE AND GRAMMAR PATTERNS",
+        "degree": 8
+      },
+      {
+        "name": "keywords",
+        "degree": 7
+      }
+    ]
+  },
+  {
+    "id": "gstack",
+    "name": "gstack",
+    "description": "Cloned & graphed from a Git URL",
+    "path": "git:gstack",
+    "graphPath": "C:\\Users\\Linda\\Downloads\\Skynet Mission Control\\src\\data\\graphs\\gstack.json",
+    "lang": "Code",
+    "color": "#7be0c8",
+    "nodeCount": 11675,
+    "edgeCount": 16597,
+    "communities": 1030,
+    "extractedPct": 99,
+    "godNodes": [
+      {
+        "name": "Changelog",
+        "degree": 408
+      },
+      {
+        "name": "server.ts",
+        "degree": 212
+      },
+      {
+        "name": "BrowserManager",
+        "degree": 98
+      },
+      {
+        "name": "resolvers/index.ts",
+        "degree": 89
+      },
+      {
+        "name": "gstack-gbrain-sync.ts",
+        "degree": 79
+      },
+      {
+        "name": "gen-skill-docs.ts",
+        "degree": 79
+      }
+    ]
+  }
+]

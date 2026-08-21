@@ -1,0 +1,13 @@
+# Keep source diffs stable across Windows, macOS, and Linux.
+* text=auto eol=lf
+
+# Binary media must never receive line-ending conversion.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.gif binary
+*.svg text eol=lf
+*.mp4 binary
+*.woff2 binary
+*.ico binary

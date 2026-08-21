@@ -1,0 +1,242 @@
+{
+  "isExample": true,
+  "generatedAt": "2026-01-01T00:00:00.000Z",
+  "summary": {
+    "totalAssistantMessages": 0,
+    "totalUserMessages": 0,
+    "messagesLast7d": 0,
+    "messagesLast5h": 0,
+    "projectsTracked": 0,
+    "valueExtracted7d": 0
+  },
+  "subscriptions": {
+    "claude": null,
+    "chatgpt": null,
+    "openrouter": null,
+    "openclaw": null
+  },
+  "usage": {
+    "claudeWindow": null,
+    "chatgptWindow": null,
+    "openrouter": null
+  },
+  "modelUsage": [],
+  "daily": [],
+  "recentProjects": [],
+  "skills": {
+    "active": [],
+    "recommended": []
+  },
+  "integrations": [],
+  "automations": [],
+  "knowledgeStores": [],
+  "modelSplit": [],
+  "dream": null,
+  "detection": {
+    "apps": {
+      "antigravity": {
+        "detected": false,
+        "usage": {
+          "conversations": 0,
+          "lastActiveMs": null,
+          "lastActiveAgo": "—",
+          "savedEquivalent": 0
+        },
+        "surfaces": {
+          "ide": {
+            "detected": false
+          },
+          "cli": {
+            "detected": false
+          }
+        }
+      },
+      "claudeApp": {
+        "detected": false
+      },
+      "claudeCode": {
+        "detected": false
+      },
+      "cursor": {
+        "detected": false
+      },
+      "codex": {
+        "detected": false
+      },
+      "hermes": {
+        "detected": false
+      },
+      "vscode": {
+        "detected": false
+      },
+      "vscodeInsiders": {
+        "detected": false
+      },
+      "zed": {
+        "detected": false
+      },
+      "windsurf": {
+        "detected": false
+      },
+      "jetbrains": {
+        "detected": false
+      },
+      "aider": {
+        "detected": false
+      },
+      "continueCli": {
+        "detected": false
+      },
+      "copilotCli": {
+        "detected": false
+      },
+      "cody": {
+        "detected": false
+      },
+      "goose": {
+        "detected": false
+      },
+      "terminals": {
+        "current": {
+          "detected": false
+        },
+        "installed": {
+          "warp": {
+            "detected": false
+          },
+          "ghostty": {
+            "detected": false
+          },
+          "iterm": {
+            "detected": false
+          },
+          "hyper": {
+            "detected": false
+          },
+          "alacritty": {
+            "detected": false
+          },
+          "wezterm": {
+            "detected": false
+          },
+          "tabby": {
+            "detected": false
+          },
+          "appleTerminal": {
+            "detected": false
+          }
+        }
+      }
+    },
+    "memoryStores": {
+      "pinecone": {
+        "detected": false,
+        "hasKey": false
+      },
+      "obsidian": {
+        "detected": false
+      },
+      "notion": {
+        "detected": false,
+        "hasToken": false
+      },
+      "logseq": {
+        "detected": false
+      }
+    },
+    "envKeysNeeded": [],
+    "envKeysPresent": []
+  },
+  "memory": {
+    "stats": {
+      "totalFiles": 0,
+      "totalWorkspaces": 0,
+      "stale": 0,
+      "missing": 0,
+      "freshness": 0,
+      "pineconeIndexes": 0,
+      "totalVectors": 0
+    },
+    "sourceList": [],
+    "events": [],
+    "recentlyUpdated": [],
+    "staleFiles": [],
+    "missing": [],
+    "nodes": [],
+    "links": []
+  },
+  "history": [
+    {
+      "date": "2026-06-09",
+      "capturedAt": "2026-06-09T07:00:00.000Z",
+      "messages7d": 40,
+      "value7d": 180,
+      "projects": 3,
+      "assistantTotal": 2400,
+      "claude5hPct": 6,
+      "claudeWeeklyPct": 2,
+      "skillRuns7d": 0,
+      "dreamPrescriptions": 4
+    },
+    {
+      "date": "2026-06-10",
+      "capturedAt": "2026-06-10T07:00:00.000Z",
+      "messages7d": 49,
+      "value7d": 208,
+      "projects": 3,
+      "assistantTotal": 2520,
+      "claude5hPct": 9,
+      "claudeWeeklyPct": 3,
+      "skillRuns7d": 1,
+      "dreamPrescriptions": 4
+    },
+    {
+      "date": "2026-06-11",
+      "capturedAt": "2026-06-11T07:00:00.000Z",
+      "messages7d": 58,
+      "value7d": 236,
+      "projects": 3,
+      "assistantTotal": 2640,
+      "claude5hPct": 12,
+      "claudeWeeklyPct": 3,
+      "skillRuns7d": 1,
+      "dreamPrescriptions": 4
+    },
+    {
+      "date": "2026-06-12",
+      "capturedAt": "2026-06-12T07:00:00.000Z",
+      "messages7d": 67,
+      "value7d": 264,
+      "projects": 3,
+      "assistantTotal": 2760,
+      "claude5hPct": 8,
+      "claudeWeeklyPct": 4,
+      "skillRuns7d": 2,
+      "dreamPrescriptions": 4
+    },
+    {
+      "date": "2026-06-13",
+      "capturedAt": "2026-06-13T07:00:00.000Z",
+      "messages7d": 76,
+      "value7d": 292,
+      "projects": 3,
+      "assistantTotal": 2880,
+      "claude5hPct": 14,
+      "claudeWeeklyPct": 4,
+      "skillRuns7d": 1,
+      "dreamPrescriptions": 4
+    },
+    {
+      "date": "2026-06-14",
+      "capturedAt": "2026-06-14T07:00:00.000Z",
+      "messages7d": 85,
+      "value7d": 320,
+      "projects": 3,
+      "assistantTotal": 3000,
+      "claude5hPct": 10,
+      "claudeWeeklyPct": 5,
+      "skillRuns7d": 3,
+      "dreamPrescriptions": 4
+    }
+  ]
+}
